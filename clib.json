@@ -1,0 +1,9 @@
+{
+  "name": "strnstr",
+  "version": "0.1.0",
+  "repo": "c-sdk/strnstr",
+  "description": "Implementation of strnstr(3) for when it's not available.",
+  "license": "unlicense",
+  "src": ["./strnstr.h", "./strnstr.c"],
+  "keywords": ["string", "search", "find"]
+}
